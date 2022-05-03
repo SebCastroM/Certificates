@@ -8,4 +8,4 @@ This is a repository where i includes the certificates of the programming course
 * [Introduction to the web](https://sebcastrom.github.io/Certificates/PLATZI/introduccion%20a%20la%20web.pdf) 03/08/2022
 * [Prework, setup development environment in windows](https://sebcastrom.github.io/Certificates/PLATZI/prework%20entorno%20windows.pdf) 03/28/2022
 * [Algorithms and logical](https://sebcastrom.github.io/Certificates/PLATZI/algoritmos%20y%20pensamiento%20logico.pdf) 04/24/2022
-* [Professional Git & GitHub](https://sebcastrom.github.io/Certificates/PLATZI/diploma-git-github.pdf) 03/05/2022
+* [Professional Git & GitHub](https://sebcastrom.github.io/Certificates/PLATZI/diploma-git-github.pdf) 05/03/2022
